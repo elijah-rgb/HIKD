@@ -6,7 +6,7 @@ Xi Yang<sup>1</sup>, Dechen Kong<sup>1</sup>, Nannan Wang Yin<sup>1</sup>, Xinbo
 
 <sup>*</sup>Corresponding author.
 
-**IEEE TIP** https://ieeexplore.ieee.org/abstract/document/10938027
+**IEEE Transactions on Image Processing**  https://ieeexplore.ieee.org/abstract/document/10938027
 
 ## Introduction
  We introduce Hyperbolic Insights with Knowledge Distillation (HIDK). This model facilitates feature transformation from Euclidean space to the Poincar´ e ball via hyperbolic mapping. During the meta-learning phase, it
