@@ -4,6 +4,8 @@
 
 Xi Yang<sup>1</sup>, Dechen Kong<sup>1</sup>, Nannan Wang Yin<sup>1</sup>, Xinbo Gao<sup>2*</sup>
 
+<sup>1</sup>Xidian University, <sup>2</sup>Chongqing University of Posts and Telecommunications
+
 <sup>*</sup>Corresponding author.
 
 **IEEE Transactions on Image Processing**  
